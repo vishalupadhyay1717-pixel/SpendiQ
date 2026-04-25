@@ -27,17 +27,21 @@ To build a simple and interactive data-driven application that demonstrates prac
 ## ▶️ How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/vishalupadhyay1717-pixel/SpendiQ.git
+```bash
+git clone https://github.com/vishalupadhyay1717-pixel/SpendiQ.git
+```
 
-   Navigate to the folder:
-
+2. Navigate to the project folder:
+```bash
 cd SpendiQ
+```
 
-Install dependencies:
+3. Install dependencies:
+```bash
+pip install streamlit pandas
+```
 
-pip install -r requirements.txt
-
-Run the app:
-
+4. Run the app:
+```bash
 streamlit run app.py
+```
