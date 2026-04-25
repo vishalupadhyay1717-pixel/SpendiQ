@@ -29,3 +29,15 @@ To build a simple and interactive data-driven application that demonstrates prac
 1. Clone the repository:
    ```bash
    git clone https://github.com/vishalupadhyay1717-pixel/SpendiQ.git
+
+   Navigate to the folder:
+
+cd SpendiQ
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the app:
+
+streamlit run app.py
